@@ -1,0 +1,10 @@
+.inputRoot {
+  position: relative;
+}
+  
+.input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 22px;
+}
+  
